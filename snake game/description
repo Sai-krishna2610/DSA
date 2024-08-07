@@ -1,0 +1,13 @@
+## Snake Game
+
+This is a classic Snake Game implemented using Python and Pygame. The game features a simple and intuitive interface where the player controls a snake to collect food and grow longer. The game includes a navbar displaying the game name on the left and the current score on the right, with the main game display appearing below the navbar.
+
+### Features
+- **Classic Snake Gameplay**: Navigate the snake to eat food and grow in length while avoiding collisions with the walls and the snake's own body.
+- **Responsive Controls**: Use the arrow keys to control the snake's movement direction. The snake cannot turn directly opposite to its current direction.
+- **Score Display**: The score is displayed in real-time on a navbar, which is updated as the snake eats food.
+- **Game Over Handling**: Displays a message when the game ends with options to quit or restart the game.
+
+### Acknowledgments
+- Inspired by classic Snake games and tutorials.
+- Thanks to the Pygame library for providing a simple framework for game development.
